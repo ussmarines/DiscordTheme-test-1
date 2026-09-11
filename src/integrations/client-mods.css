@@ -1,0 +1,5 @@
+/* Specific classes only; never blanket-match all vc- or bd- elements. */
+:is(.theme-dark, .theme-light) :is(.vc-addon-card, .bd-addon-card) { background: var(--ph-raised); color: var(--ph-ink); border: 1px solid var(--ph-rule); border-radius: var(--ph-radius); }
+:is(.theme-dark, .theme-light) :is(.vc-settings-card, .bd-settings-group) { color: var(--ph-ink); }
+:is(.theme-dark, .theme-light) .vc-text-select { background: var(--ph-canvas); color: var(--ph-ink); }
+/* Monaco / QuickCSS editor iframe owns its theme and is not overridden. */

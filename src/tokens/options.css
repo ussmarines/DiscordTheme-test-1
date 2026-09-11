@@ -1,0 +1,8 @@
+:root {
+  /* Override these in Custom CSS / QuickCSS; mode-specific accents stay readable. */
+  --ph-accent-dark: #8fcfff;
+  --ph-accent-light: #145da0;
+  --ph-radius: 12px;
+  --ph-panel-gap: 8px;
+  --ph-motion: 140ms;
+}

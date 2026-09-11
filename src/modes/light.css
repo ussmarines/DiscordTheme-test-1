@@ -1,0 +1,14 @@
+.theme-light {
+  --ph-canvas: #e6edf3;
+  --ph-surface: #f6f9fc;
+  --ph-raised: #ffffff;
+  --ph-ink: #172d3e;
+  --ph-muted: #40596d;
+  --ph-line: #6a8296;
+  --ph-accent: hsl(from var(--ph-accent-light) h calc(s * var(--saturation-factor, 1)) l);
+  --ph-on-accent: #ffffff;
+  --ph-wash: color-mix(in srgb, var(--ph-accent) 12%, var(--ph-surface));
+  --ph-hover: color-mix(in srgb, var(--ph-ink) 7%, var(--ph-surface));
+  --ph-rule: color-mix(in srgb, var(--ph-line) 40%, var(--ph-surface));
+  --ph-shadow: 0 8px 24px #172d3e18;
+}

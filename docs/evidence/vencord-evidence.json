@@ -1,0 +1,48 @@
+[
+  {
+    "theme": "Parhelion",
+    "mode": "dark",
+    "local": {
+      "found": true,
+      "background": "rgb(32, 49, 63)",
+      "color": "rgb(233, 242, 248)",
+      "radius": "12px",
+      "switch": true,
+      "enabled": true
+    },
+    "online": {
+      "textarea": true,
+      "color": "rgb(233, 242, 248)",
+      "background": "rgba(0, 0, 0, 0)"
+    },
+    "plugins": {
+      "cards": 162,
+      "color": "rgb(233, 242, 248)",
+      "background": "rgb(32, 49, 63)",
+      "switches": 162
+    }
+  },
+  {
+    "theme": "Parhelion",
+    "mode": "light",
+    "local": {
+      "found": true,
+      "background": "rgb(255, 255, 255)",
+      "color": "rgb(23, 45, 62)",
+      "radius": "12px",
+      "switch": true,
+      "enabled": true
+    },
+    "online": {
+      "textarea": true,
+      "color": "rgb(23, 45, 62)",
+      "background": "rgba(0, 0, 0, 0)"
+    },
+    "plugins": {
+      "cards": 162,
+      "color": "rgb(23, 45, 62)",
+      "background": "rgb(255, 255, 255)",
+      "switches": 162
+    }
+  }
+]

@@ -1,0 +1,83 @@
+{
+  "status": "PASS_STATIC",
+  "bytes": 19443,
+  "modules": 14,
+  "declarations": 269,
+  "selectors": 383,
+  "themeVariables": 141,
+  "contrast": [
+    {
+      "mode": "dark",
+      "fg": "ink",
+      "bg": "canvas",
+      "ratio": 15.78
+    },
+    {
+      "mode": "dark",
+      "fg": "ink",
+      "bg": "surface",
+      "ratio": 14.07
+    },
+    {
+      "mode": "dark",
+      "fg": "ink",
+      "bg": "raised",
+      "ratio": 11.78
+    },
+    {
+      "mode": "dark",
+      "fg": "muted",
+      "bg": "canvas",
+      "ratio": 10.65
+    },
+    {
+      "mode": "dark",
+      "fg": "muted",
+      "bg": "surface",
+      "ratio": 9.5
+    },
+    {
+      "mode": "dark",
+      "fg": "muted",
+      "bg": "raised",
+      "ratio": 7.95
+    },
+    {
+      "mode": "light",
+      "fg": "ink",
+      "bg": "canvas",
+      "ratio": 12
+    },
+    {
+      "mode": "light",
+      "fg": "ink",
+      "bg": "surface",
+      "ratio": 13.42
+    },
+    {
+      "mode": "light",
+      "fg": "ink",
+      "bg": "raised",
+      "ratio": 14.18
+    },
+    {
+      "mode": "light",
+      "fg": "muted",
+      "bg": "canvas",
+      "ratio": 6.2
+    },
+    {
+      "mode": "light",
+      "fg": "muted",
+      "bg": "surface",
+      "ratio": 6.93
+    },
+    {
+      "mode": "light",
+      "fg": "muted",
+      "bg": "raised",
+      "ratio": 7.32
+    }
+  ],
+  "remoteRequests": 0
+}

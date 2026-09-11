@@ -1,0 +1,14 @@
+:is(.theme-dark, .theme-light) :is([class^="sidebarList_"], [class*=" sidebarList_"]) { margin-inline-end: var(--ph-panel-gap); border-radius: var(--ph-radius); border: 1px solid var(--ph-rule); }
+:is(.theme-dark, .theme-light) :is([class^="page_"], [class*=" page_"]) { border-radius: var(--ph-radius) 0 0 0; border: 1px solid var(--ph-rule); overflow: clip; }
+:is(.theme-dark, .theme-light) :is([class^="chatContent_"], [class*=" chatContent_"]) { border-inline-end: 1px solid var(--ph-rule); }
+:is(.theme-dark, .theme-light) :is([class^="link_"], [class*=" link_"]) { border-radius: 7px; margin-block: 2px; }
+:is(.theme-dark, .theme-light) :is([class^="interactiveSelected_"], [class*=" interactiveSelected_"]) { box-shadow: inset 2px 0 var(--ph-accent); }
+:is(.theme-dark, .theme-light) :is([class^="channelTextArea_"], [class*=" channelTextArea_"]) { box-shadow: 0 2px 5px #00000012; }
+:is(.theme-dark, .theme-light) :is([class^="membersGroup_"], [class*=" membersGroup_"]) { letter-spacing: .035em; }
+@supports (backdrop-filter: blur(6px)) {
+  :root:not(.hardware-acceleration-disabled):not(.reduce-motion) [role="menu"] { background: color-mix(in srgb, var(--ph-raised) 94%, transparent); backdrop-filter: blur(6px); }
+}
+@media (max-width: 1000px) { :is(.theme-dark, .theme-light) :is([class^="sidebarList_"], [class*=" sidebarList_"]) { margin-inline-end: 0; } }
+@media (prefers-reduced-motion: reduce), (prefers-reduced-transparency: reduce), (forced-colors: active) {
+  :root [role="menu"] { backdrop-filter: none; background: var(--ph-raised); }
+}

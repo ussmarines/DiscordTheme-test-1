@@ -1,0 +1,10 @@
+/* A continuous reading plane, with the author header carrying hierarchy. */
+:is(.theme-dark, .theme-light) [id^="message-content-"]:not([class*="repliedTextContent_"]) {
+  max-width: 84ch;
+}
+:is(.theme-dark, .theme-light) [class*="repliedMessage_"] {
+  color: var(--ph-muted);
+}
+:is(.theme-dark, .theme-light) [class*="groupStart_"] {
+  padding-block-start: 6px;
+}

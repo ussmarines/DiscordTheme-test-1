@@ -1,0 +1,40 @@
+[
+  {
+    "theme": "Parhelion",
+    "mode": "dark",
+    "picker": {
+      "found": true,
+      "width": 496,
+      "background": "rgba(0, 0, 0, 0)"
+    },
+    "profile": {
+      "found": true,
+      "width": 300,
+      "background": "rgb(32, 49, 63)"
+    },
+    "search": {
+      "found": true,
+      "results": 3,
+      "background": "rgb(16, 24, 32)"
+    }
+  },
+  {
+    "theme": "Parhelion",
+    "mode": "light",
+    "picker": {
+      "found": true,
+      "width": 496,
+      "background": "rgba(0, 0, 0, 0)"
+    },
+    "profile": {
+      "found": true,
+      "width": 300,
+      "background": "rgb(255, 255, 255)"
+    },
+    "search": {
+      "found": true,
+      "results": 3,
+      "background": "rgb(230, 237, 243)"
+    }
+  }
+]

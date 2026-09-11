@@ -1,0 +1,170 @@
+[
+  {
+    "theme": "Parhelion",
+    "mode": "dark",
+    "messages": {
+      "body": [
+        {
+          "color": "rgb(233, 242, 248)",
+          "background": "rgba(0, 0, 0, 0)",
+          "width": 856.890625,
+          "radius": "0px"
+        },
+        {
+          "color": "rgb(233, 242, 248)",
+          "background": "rgba(0, 0, 0, 0)",
+          "width": 856.890625,
+          "radius": "0px"
+        },
+        {
+          "color": "rgb(233, 242, 248)",
+          "background": "rgba(0, 0, 0, 0)",
+          "width": 856.890625,
+          "radius": "0px"
+        },
+        {
+          "color": "rgb(233, 242, 248)",
+          "background": "rgba(0, 0, 0, 0)",
+          "width": 856.890625,
+          "radius": "0px"
+        },
+        {
+          "color": "rgb(233, 242, 248)",
+          "background": "rgba(0, 0, 0, 0)",
+          "width": 856.890625,
+          "radius": "0px"
+        },
+        {
+          "color": "rgb(185, 202, 216)",
+          "background": "rgba(0, 0, 0, 0)",
+          "width": 789.609375,
+          "radius": "0px"
+        },
+        {
+          "color": "rgb(233, 242, 248)",
+          "background": "rgba(0, 0, 0, 0)",
+          "width": 856.890625,
+          "radius": "0px"
+        }
+      ],
+      "code": [
+        {
+          "color": "oklab(0.999994 0.0000455678 0.0000200868)",
+          "background": "oklab(0.57742 0.0140622 -0.208604 / 0.0784314)",
+          "width": 704.390625,
+          "radius": "4px"
+        }
+      ],
+      "embed": [
+        {
+          "color": "rgb(233, 242, 248)",
+          "background": "rgb(32, 49, 63)",
+          "width": 521,
+          "radius": "12px"
+        }
+      ],
+      "spoilerHidden": false
+    },
+    "spoilerRevealed": true,
+    "menu": {
+      "visible": true,
+      "color": "rgb(16, 24, 32)",
+      "background": "rgb(32, 49, 63)",
+      "items": 20
+    },
+    "focus": {
+      "visible": true,
+      "outline": "solid",
+      "width": "2px"
+    },
+    "small": {
+      "viewport": 1000,
+      "globalOverflow": false,
+      "composerVisible": true
+    }
+  },
+  {
+    "theme": "Parhelion",
+    "mode": "light",
+    "messages": {
+      "body": [
+        {
+          "color": "rgb(23, 45, 62)",
+          "background": "rgba(0, 0, 0, 0)",
+          "width": 863.609375,
+          "radius": "0px"
+        },
+        {
+          "color": "rgb(23, 45, 62)",
+          "background": "rgba(0, 0, 0, 0)",
+          "width": 863.609375,
+          "radius": "0px"
+        },
+        {
+          "color": "rgb(23, 45, 62)",
+          "background": "rgba(0, 0, 0, 0)",
+          "width": 863.609375,
+          "radius": "0px"
+        },
+        {
+          "color": "rgb(23, 45, 62)",
+          "background": "rgba(0, 0, 0, 0)",
+          "width": 863.609375,
+          "radius": "0px"
+        },
+        {
+          "color": "rgb(23, 45, 62)",
+          "background": "rgba(0, 0, 0, 0)",
+          "width": 863.609375,
+          "radius": "0px"
+        },
+        {
+          "color": "rgb(64, 89, 109)",
+          "background": "rgba(0, 0, 0, 0)",
+          "width": 789.609375,
+          "radius": "0px"
+        },
+        {
+          "color": "rgb(23, 45, 62)",
+          "background": "rgba(0, 0, 0, 0)",
+          "width": 863.609375,
+          "radius": "0px"
+        }
+      ],
+      "code": [
+        {
+          "color": "oklab(0.338541 0.00199024 -0.012109)",
+          "background": "oklab(0.57742 0.0140622 -0.208604 / 0.0392157)",
+          "width": 710.4375,
+          "radius": "4px"
+        }
+      ],
+      "embed": [
+        {
+          "color": "rgb(23, 45, 62)",
+          "background": "rgb(255, 255, 255)",
+          "width": 521,
+          "radius": "12px"
+        }
+      ],
+      "spoilerHidden": false
+    },
+    "spoilerRevealed": true,
+    "menu": {
+      "visible": true,
+      "color": "rgb(230, 237, 243)",
+      "background": "rgb(255, 255, 255)",
+      "items": 20
+    },
+    "focus": {
+      "visible": true,
+      "outline": "solid",
+      "width": "2px"
+    },
+    "small": {
+      "viewport": 1000,
+      "globalOverflow": false,
+      "composerVisible": true
+    }
+  }
+]

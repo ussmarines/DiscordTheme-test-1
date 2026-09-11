@@ -1,0 +1,30 @@
+[
+  {
+    "theme": "Parhelion",
+    "mode": "dark",
+    "bd": true,
+    "vencord": false,
+    "version": "1.14.1",
+    "loaded": true,
+    "cardFound": true,
+    "cardCount": 3,
+    "background": "rgb(32, 49, 63)",
+    "color": "rgb(233, 242, 248)",
+    "radius": "12px",
+    "switches": 3
+  },
+  {
+    "theme": "Parhelion",
+    "mode": "light",
+    "bd": true,
+    "vencord": false,
+    "version": "1.14.1",
+    "loaded": true,
+    "cardFound": true,
+    "cardCount": 3,
+    "background": "rgb(255, 255, 255)",
+    "color": "rgb(23, 45, 62)",
+    "radius": "12px",
+    "switches": 3
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "theme": "Parhelion",
+    "mode": "dark",
+    "main": {
+      "mode": "platform-win theme-dark images-dark density-default font-size-16 keyboard-mode has-webkit-scrollbar full-motion app-focused visual-refresh hardware-acceleration-disabled",
+      "localThemeLoaded": true,
+      "guilds": {
+        "width": 72,
+        "height": 927,
+        "background": "rgb(16, 24, 32)",
+        "color": "rgb(16, 24, 32)",
+        "radius": "0px",
+        "overflowX": "hidden"
+      },
+      "channels": {
+        "width": 304,
+        "height": 1047,
+        "background": "rgb(16, 24, 32)",
+        "color": "rgb(16, 24, 32)",
+        "radius": "12px",
+        "overflowX": "hidden"
+      },
+      "chat": {
+        "width": 974,
+        "height": 995,
+        "background": "rgb(23, 35, 46)",
+        "color": "rgb(16, 24, 32)",
+        "radius": "0px",
+        "overflowX": "visible"
+      },
+      "composer": {
+        "width": 688,
+        "height": 56,
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(233, 242, 248)",
+        "radius": "0px",
+        "overflowX": "visible"
+      },
+      "members": {
+        "width": 264,
+        "height": 995,
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(16, 24, 32)",
+        "radius": "0px",
+        "overflowX": "visible"
+      },
+      "overflow": false,
+      "relativeColor": true
+    },
+    "focus": {
+      "visible": true,
+      "outline": "solid",
+      "width": "2px"
+    },
+    "reducedMotion": "0ms",
+    "inbox": {
+      "visible": true,
+      "menus": 1
+    }
+  },
+  {
+    "theme": "Parhelion",
+    "mode": "light",
+    "main": {
+      "mode": "platform-win theme-light images-light density-default font-size-16 keyboard-mode has-webkit-scrollbar full-motion app-focused visual-refresh hardware-acceleration-disabled",
+      "localThemeLoaded": true,
+      "guilds": {
+        "width": 72,
+        "height": 927,
+        "background": "rgb(230, 237, 243)",
+        "color": "rgb(230, 237, 243)",
+        "radius": "0px",
+        "overflowX": "hidden"
+      },
+      "channels": {
+        "width": 304,
+        "height": 1047,
+        "background": "rgb(230, 237, 243)",
+        "color": "rgb(230, 237, 243)",
+        "radius": "12px",
+        "overflowX": "hidden"
+      },
+      "chat": {
+        "width": 974,
+        "height": 995,
+        "background": "rgb(246, 249, 252)",
+        "color": "rgb(230, 237, 243)",
+        "radius": "0px",
+        "overflowX": "visible"
+      },
+      "composer": {
+        "width": 688,
+        "height": 56,
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(23, 45, 62)",
+        "radius": "0px",
+        "overflowX": "visible"
+      },
+      "members": {
+        "width": 264,
+        "height": 995,
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(230, 237, 243)",
+        "radius": "0px",
+        "overflowX": "visible"
+      },
+      "overflow": false,
+      "relativeColor": true
+    },
+    "focus": {
+      "visible": true,
+      "outline": "solid",
+      "width": "2px"
+    },
+    "reducedMotion": "0ms",
+    "inbox": {
+      "visible": true,
+      "menus": 1
+    }
+  }
+]

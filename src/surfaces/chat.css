@@ -1,0 +1,12 @@
+:is(.theme-dark, .theme-light) :is([class^="chatContent_"], [class*=" chatContent_"]) { background: var(--ph-surface); }
+:is(.theme-dark, .theme-light) :is([class^="channelTextArea_"], [class*=" channelTextArea_"]) { background: var(--ph-raised); border: 1px solid var(--ph-line); border-radius: var(--ph-radius); }
+:is(.theme-dark, .theme-light) :is([class^="channelTextArea_"], [class*=" channelTextArea_"]):focus-within { border-color: var(--ph-accent); }
+:is(.theme-dark, .theme-light) :is([class^="scrollableContainer_"], [class*=" scrollableContainer_"]) { background: transparent; border-radius: inherit; }
+:is(.theme-dark, .theme-light) :is([class^="replyBar_"], [class*=" replyBar_"]) { background: var(--ph-wash); border-radius: var(--ph-radius) var(--ph-radius) 0 0; }
+:is(.theme-dark, .theme-light) :is([class^="reaction_"], [class*=" reaction_"]) { border-radius: var(--ph-radius); }
+:is(.theme-dark, .theme-light) :is([class^="reactionMe_"], [class*=" reactionMe_"]) { border-color: var(--ph-accent); }
+:is(.theme-dark, .theme-light) :is([class^="embedFull_"], [class*=" embedFull_"]) { border-radius: var(--ph-radius); background: var(--ph-raised); }
+:is(.theme-dark, .theme-light) :is(:is([class^="fileWrapper_"], [class*=" fileWrapper_"]), :is([class^="attachment_"], [class*=" attachment_"])) { border-radius: var(--ph-radius); border-color: var(--ph-rule); }
+:is(.theme-dark, .theme-light) :is([class^="markup_"], [class*=" markup_"]) pre { border: 1px solid var(--ph-rule); border-radius: var(--ph-radius); }
+:is(.theme-dark, .theme-light) :is([class^="markup_"], [class*=" markup_"]) blockquote { border-inline-start-color: var(--ph-line); }
+/* Do not touch spoiler descendants, inline role colors or syntax token colors. */

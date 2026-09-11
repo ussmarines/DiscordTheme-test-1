@@ -1,0 +1,32 @@
+{
+  "theme": "Parhelion",
+  "date": "2026-09-11",
+  "url": "https://raw.githubusercontent.com/ussmarines/DiscordTheme-test-1/main/dist/Parhelion.theme.css",
+  "httpStatus": 200,
+  "bytes": 19443,
+  "sha256": "357b411ea96f85e5927057ae7bfc17092409c965d83952ed7a8b665c89524c4c",
+  "matchesLocal": true,
+  "onlineLoaded": true,
+  "modes": [
+    {
+      "mode": "dark",
+      "dark": true,
+      "background": "rgb(23, 35, 46)",
+      "accent": "hsl(from #8fcfff h calc(s * 1) l)",
+      "localThemes": [],
+      "onlineLinks": [
+        "https://raw.githubusercontent.com/ussmarines/DiscordTheme-test-1/main/dist/Parhelion.theme.css"
+      ]
+    },
+    {
+      "mode": "light",
+      "dark": false,
+      "background": "rgb(246, 249, 252)",
+      "accent": "hsl(from #145da0 h calc(s * 1) l)",
+      "localThemes": [],
+      "onlineLinks": [
+        "https://raw.githubusercontent.com/ussmarines/DiscordTheme-test-1/main/dist/Parhelion.theme.css"
+      ]
+    }
+  ]
+}
